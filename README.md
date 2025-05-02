@@ -43,7 +43,7 @@ This repo is again a fork of akhilrex's great [project](https://github.com/akhil
 
 As mentioned, this project is a fork of 
 akhilrex's [project](https://github.com/akhilrex/hammond) which is no longer active. 
-To prevent the same from happeing to this project, we are seeking to add more 
+To prevent the same from happening to this project, we are seeking to add more 
 maintainers/collaborators who have access to merge PRs.
 
 We are trying our best to update with new features and feedback is very welcome.
